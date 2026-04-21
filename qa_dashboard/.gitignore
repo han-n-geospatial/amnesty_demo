@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Large geodata files
+*.osm.pbf
+*.fgb
+
+# macOS
+.DS_Store
