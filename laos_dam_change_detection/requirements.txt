@@ -1,0 +1,4 @@
+earthengine-api==1.7.22
+geemap==0.37.2
+pandas==2.3.3
+matplotlib==3.10.8
